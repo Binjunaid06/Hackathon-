@@ -1,0 +1,19 @@
+.nav-bar li{
+    margin: 0 30px;
+}
+
+.bottom {
+    margin-top: -10px;
+    margin-right:3px;
+}
+
+.search {
+    padding: px;
+    width: 60%;
+}
+
+.icons {
+    position: absolute;
+   
+    left: 80px;
+}
